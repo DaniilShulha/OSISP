@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "proc.h": "c",
+    "libproc.h": "c"
+  }
+}
